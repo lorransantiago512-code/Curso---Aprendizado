@@ -1,0 +1,71 @@
+h1{
+    background-color: #f5eeee;
+    font-family:sans-serif;
+    text-align:center;
+    border-bottom: 3px solid #000;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;    
+}
+.brasil{
+    text-align:center;
+    font-family:sans-serif;
+}
+body{
+    background-color: #d8d3d3;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    background-color: #4358cede;
+    border-bottom: 3px solid #000;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+    color: #fff;
+    padding: 10px;
+
+}
+p{
+    font-family:sans-serif;
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
+
+h3{
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
+
+ul{
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+
+}
+
+li{
+    list-style-position:none;
+
+}
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
