@@ -1,15 +1,17 @@
 h1{
     background-color: #f5eeee;
+    width: 50%;
     font-family:sans-serif;
     text-align:center;
-    border-bottom: 3px solid #000;
+    border-bottom: 0px #000;
     margin-left:auto;
     margin-right:auto;
-    width: 50%;    
 }
 .brasil{
     text-align:center;
     font-family:sans-serif;
+    
+   
 }
 body{
     background-color: #d8d3d3;
@@ -53,6 +55,34 @@ li{
 
 }
 
+.menu{
+     list-style-type:none;
+     text-align:right; 
+   
+}
+
+.menu li{
+    display:inline-block;
+    margin: 0;
+    
+}
+
+.menu a{
+    background-color: #cfc8c8;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-family:sans-serif;    
+
+}
+.menu a:hover{
+    background-color: #f7f0f0;
+    
+    
+
+}
+
+    
    
     
 
